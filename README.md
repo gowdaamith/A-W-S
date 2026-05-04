@@ -3,7 +3,7 @@
 
 AWS Transit Gateway : A Transit Gateway in AWS is basically a central network hub that connects multiple  network together  in a clean ,scalable way 
 
-Instead of manually connecting everything to everything (which becomes messy) ,you plug everything into one central router 
+Instead of manually connecting everything to everything (which becomes messy) ,you plug everything into one central router    
 
 ![Transit_gateway image](images/hHrRayXRNTDMa14x2ragRKC1dkhpZ8Bk8X9yC1LlBqOMIvFAEGSqlxPX8tnwgJczISxg4LrLMH9FoHFQqkV8n0qtzdMxcPxU_lKeOBnl3b9pgcWjc7eEOugXDBSJ9ytYlovQruj2tv-T4cntKjPXpnHdDKCxCyPZjtKg6z00rpI.jpeg)
 
