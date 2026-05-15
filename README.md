@@ -18,5 +18,14 @@ AWS VPC Peering : The purpose of the VPC peering is to let two VPC's communicate
 No network ,no NAT ,no public exposure - just secure internal communication 
 [Ex : VPC1 : frontend VPC2: backend  peering allows frontend to call the backend api privately no public exposure of backend]
 
-![Alt text](images/vpc-peering.jpeg)
+AWS ROUTE 53 : It translate a domain name like example.com into  the ip address of the server where your application is running 
+
+![AWS route53](images/aws_route53.jpeg)
+
+AWS CloudFront: AWS CloudFront is a Content Delivery Network  that stores copies of your website in servers around the world and deliveries it  from the nearest location to the user[ if its already cached in the nearest location if its not cached then it will be taken from the server and cached so that the next request willl be faster ] ,making the website  faster ,redusing the load on the server and improving the security
+
+![AWS_CDN](images/aws_cdn.jpeg)
+![
+
+
 
