@@ -31,4 +31,9 @@ AWS Site-to-Site VPN: AWS site-to-site VPN is a secure encrypted turnnel over th
 
 ![AWS_CDN](images/site-to-site-vpn.jpeg)
 
+AWS VPC flow logs:
+AWS VPC Flow Logs: VPC Flow Logs is a network monitoring and logging feature that records information about the network traffic going into and out of resources in your VPC, such as EC2 instances, network interfaces, and subnets. It helps you troubleshoot connectivity problems, monitor network traffic, and investigate security issues.
 
+It records details such as the source IP, destination IP, source port, destination port, protocol, number of packets, number of bytes, and whether the traffic was accepted or rejected. It does not record the actual contents of the traffic.
+
+![AWS_VPC_FLOW_LOG](images/VPC_LOG.png)
